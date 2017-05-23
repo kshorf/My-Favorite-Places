@@ -1,0 +1,23 @@
+body {
+  background-color: #93B874;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p1 {
+  color: teal;
+}
+
+p2 {
+  color: palegoldenrod;
+}
+
+p3 {
+  color: forestgreen;
+}
+
+li {
+  font-size: 40px;
+}
