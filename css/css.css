@@ -21,3 +21,16 @@ p3 {
 li {
   font-size: 40px;
 }
+
+h1.kona {
+  font-weight: bolder;
+  color: blue;
+}
+
+.purple {
+  color: purple;
+}
+
+.green {
+  color: green;
+}
